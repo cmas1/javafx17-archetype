@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.github.alberto-mr</groupId>
-  <artifactId>tdp-javafx-archetype</artifactId>
-  <version>2.0.0</version>
+  <artifactId>tdp-javafx-archetype-archetype</artifactId>
+  <version>1.0.0</version>
   <packaging>maven-archetype</packaging>
 
-  <name>tdp-javafx-archetype</name>
+  <name>tdp-javafx-archetype-archetype</name>
   <description>Maven archetype to create JavaFX applications with Java 11</description>
   <url>https://github.com/alberto-mr/javafx11-archetype</url>
     

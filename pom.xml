@@ -4,7 +4,7 @@
 
   <groupId>com.github.alberto-mr</groupId>
   <artifactId>tdp-javafx-archetype</artifactId>
-  <version>2.0.3</version>
+  <version>2.0.4</version>
   <packaging>maven-archetype</packaging>
 
   <name>tdp-javafx-archetype</name>
@@ -37,7 +37,7 @@
     <developerConnection>
        scm:git:ssh://git@github.com:alberto-mr/javafx11-archetype.git
     </developerConnection>
-    <tag>tdp-javafx-archetype-2.0.3</tag>
+    <tag>tdp-javafx-archetype-2.0.4</tag>
   </scm>
   
   <developers>

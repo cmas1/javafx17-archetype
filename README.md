@@ -1,5 +1,5 @@
-# javafx11-archetype
-Maven archetype to create JavaFX applications with Java 11
+# javafx17-archetype
+Maven archetype to create JavaFX applications with Java 17
 
 Here are the instructions to publish the archetype on Maven:
 
